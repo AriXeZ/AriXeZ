@@ -1378,6 +1378,16 @@ select {
   cursor : pointer;
 }
 
+.CursorPointer1{
+  cursor : pointer;
+background: url(http://time-mirchar.xnoo.ru/cnt/img/ui/menu2/profile.png);
+}
+
+.CursorPointer1:hover{
+  cursor : pointer;
+background: url(http://time-mirchar.xnoo.ru/cnt/img/ui/menu2/profile1.png);
+}
+
 .CursorWait{
   cursor: wait;
 }
