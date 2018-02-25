@@ -1387,6 +1387,9 @@ background: url(http://time-mirchar.xnoo.ru/cnt/img/ui/menu2/profile.png);
   cursor : pointer;
 background: url(http://time-mirchar.xnoo.ru/cnt/img/ui/menu2/profile1.png);
 }
+.gwt-Image1:hover{
+background: url(http://time-mirchar.xnoo.ru/cnt/img/ui/menu2/profile1.png);
+}
 
 .CursorWait{
   cursor: wait;
