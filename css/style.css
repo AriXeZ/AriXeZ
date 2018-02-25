@@ -1374,13 +1374,12 @@ select {
   margin: 0px;
 }
 
-.CursorPointer{
-  cursor : pointer;
+.gwt-Image:hover {
+    background: url(cnt/img/ui/menu2/profile1.png);
 }
 
-div.CursorPointer1 img:hover {
+.CursorPointer{
   cursor : pointer;
-    background: url(cnt/img/ui/menu2/profile1.png);
 }
 
 .CursorWait{
