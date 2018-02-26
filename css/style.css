@@ -50,9 +50,9 @@ hr {
 
 @font-face {
   font-family: 'coptic';
-  src: url('https://mirchar.ru/cnt/files/DSCOPTI0.eot');
-  src: url('https://mirchar.ru/cnt/files/DSCOPTI0.eot?#iefix') format('embedded-opentype'),
-   local('coptic'), url('https://mirchar.ru/cnt/files/dscoptic.ttf') format('truetype');
+  src: url('http://time-mirchar.xnoo.ru/cnt/files/DSCOPTI0.eot');
+  src: url('http://time-mirchar.xnoo.ru/cnt/files/DSCOPTI0.eot?#iefix') format('embedded-opentype'),
+   local('coptic'), url('http://time-mirchar.xnoo.ru/cnt/files/dscoptic.ttf') format('truetype');
 }
 
 .coptic-font {
@@ -111,8 +111,8 @@ hr {
   border-style: solid;
   border-width: 16px;
   border-color: transparent;
-  -webkit-border-image: url(https://mirchar.ru/cnt/img/ui/borders/window_corners.png) 16 repeat;
-  border-image: url(https://mirchar.ru/cnt/img/ui/borders/window_corners.png) 16 fill repeat;
+  -webkit-border-image: url(http://time-mirchar.xnoo.ru/http://time-mirchar.xnoo.ru/cnt/img/ui/borders/window_corners.png) 16 repeat;
+  border-image: url(http://time-mirchar.xnoo.ru/http://time-mirchar.xnoo.ru/cnt/img/ui/borders/window_corners.png) 16 fill repeat;
 }
 
 .gwt-DecoratorPanel .UserBox {  
@@ -126,8 +126,8 @@ hr {
   z-index: 2;
   border-style: solid;
   border-width: 28px 16px 16px 18px;
-  -webkit-border-image: url(https://mirchar.ru/cnt/img/ui/borders/tooltip.png) 28 17 16 15;
-  border-image: url(https://mirchar.ru/cnt/img/ui/borders/tooltip.png) 28 17 16 15;
+  -webkit-border-image: url(http://time-mirchar.xnoo.ru/cnt/img/ui/borders/tooltip.png) 28 17 16 15;
+  border-image: url(http://time-mirchar.xnoo.ru/cnt/img/ui/borders/tooltip.png) 28 17 16 15;
 }
 
 
@@ -135,8 +135,8 @@ hr {
   background: #F9F0EC;  
   border-style: solid;
   border-width: 5px;
-  -webkit-border-image: url(https://mirchar.ru/cnt/img/ui/borders/tabwindow.gif) 5;
-  border-image: url(https://mirchar.ru/cnt/img/ui/borders/tabwindow.gif) 5;
+  -webkit-border-image: url(http://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow.gif) 5;
+  border-image: url(http://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow.gif) 5;
 }
 
 .gwt-BorderedInnerPanel{
@@ -237,7 +237,7 @@ hr {
 .gwt-BorderedTabBar .gwt-TabBarItem {
   border-collapse: collapse;
   margin-left: 6px;
-  background: url(https://mirchar.ru/cnt/img/ui/borders/tabwindow/tab_not_selected.png) no-repeat;
+  background: url(http://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/tab_not_selected.png) no-repeat;
   height: 18px;
   width: 90px;
   font-size: 12px;
@@ -247,13 +247,13 @@ hr {
 }
 
 .gwt-BorderedTabBar .gwt-TabBarItem-selected {
-  background: url(https://mirchar.ru/cnt/img/ui/borders/tabwindow/tab_selected.png) no-repeat;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/tab_selected.png) no-repeat;
 }
 
 
 .gwt-BorderedTabBar .gwt-TabBarItem .topCenter {
   padding: 0px;
-  background: url(https://mirchar.ru/cnt/img/ui/borders/tabwindow/top.png) 0px -32px repeat-x;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/top.png) 0px -32px repeat-x;
 }
 
 .gwt-BorderedTabBar .gwt-TabBarItem .topLeft,
@@ -272,7 +272,7 @@ hr {
 .gwt-BorderedTabBar .gwt-TabBarItem .middleRight {
   width: 6px;
   padding: 0px;
-  background: #e4e9f3 url(https://mirchar.ru/cnt/img/ui/borders/tabwindow/top.png) repeat-x;
+  background: #e4e9f3 url(https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/top.png) repeat-x;
 }
 
 .gwt-BorderedTabBar .gwt-TabBarItem .middleCenter {
@@ -281,29 +281,29 @@ hr {
   cursor: hand;
   font-weight: bold;
   text-align: center;
-  background: #e4e9f3 url(https://mirchar.ru/cnt/img/ui/borders/tabwindow/top.png) repeat-x;
+  background: #e4e9f3 url(https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/top.png) repeat-x;
 }
 
 .gwt-BorderedTabBar .gwt-TabBarItem-selected .topCenter {
-  background: url(https://mirchar.ru/cnt/img/ui/borders/tabwindow/bottom.png) 0px -38px repeat-x;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/bottom.png) 0px -38px repeat-x;
 }
 
 .gwt-BorderedTabBar .gwt-TabBarItem-selected .middleLeft,
 .gwt-BorderedTabBar .gwt-TabBarItem-selected .middleRight {
-  background: #92c1f0 url(https://mirchar.ru/cnt/img/ui/borders/tabwindow/tab_selected.png) repeat-x;
+  background: #92c1f0 url(https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/tab_selected.png) repeat-x;
 }
 
 .gwt-BorderedTabBar .gwt-TabBarItem-selected .middleCenter {
   cursor: default;
-  background: #92c1f0 url(https://mirchar.ru/cnt/img/ui/borders/tabwindow/tab_selected.png) repeat-x;
+  background: #92c1f0 url(https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/tab_selected.png) repeat-x;
 }
 
 html>body .gwt-BorderedTabBar .gwt-TabBarItem .topLeft {
-  background: url(https://mirchar.ru/cnt/img/ui/borders/tabwindow/corners.png) no-repeat 0px -55px;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/corners.png) no-repeat 0px -55px;
 }
 
 html>body .gwt-BorderedTabBar .gwt-TabBarItem .topRight {
-  background: url(https://mirchar.ru/cnt/img/ui/borders/tabwindow/corners.png) no-repeat -6px -55px;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/corners.png) no-repeat -6px -55px;
 }
 
 html>body .gwt-BorderedTabBar .gwt-TabBarItem-selected .topLeft {
@@ -319,7 +319,7 @@ html>body .gwt-BorderedTabBar .gwt-TabBarItem-selected .topRight {
   height: 61px;
   margin-top: -55px;
   overflow: hidden;
-  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://mirchar.ru/cnt/img/ui/borders/tabwindow/corners.png',sizingMethod='crop');
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/corners.png',sizingMethod='crop');
 }
 
 * html .gwt-BorderedTabBar .gwt-TabBarItem .topRightInner {
@@ -328,7 +328,7 @@ html>body .gwt-BorderedTabBar .gwt-TabBarItem-selected .topRight {
   margin-top: -55px;
   margin-left: -6px;
   overflow: hidden;
-  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://mirchar.ru/cnt/img/ui/borders/tabwindow/corners.png',sizingMethod='crop');
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/corners.png',sizingMethod='crop');
 }
 
 * html .gwt-BorderedTabBar .gwt-TabBarItem-selected .topLeftInner {
@@ -336,7 +336,7 @@ html>body .gwt-BorderedTabBar .gwt-TabBarItem-selected .topRight {
   height: 67px;
   margin-top: -61px;
   overflow: hidden;
-  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://mirchar.ru/cnt/img/ui/borders/tabwindow/corners.png',sizingMethod='crop');
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/corners.png',sizingMethod='crop');
 }
 
 * html .gwt-BorderedTabBar .gwt-TabBarItem-selected .topRightInner {
@@ -345,7 +345,7 @@ html>body .gwt-BorderedTabBar .gwt-TabBarItem-selected .topRight {
   margin-top: -61px;
   margin-left: -6px;
   overflow: hidden;
-  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://mirchar.ru/cnt/img/ui/borders/tabwindow/corners.png',sizingMethod='crop');
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tabwindow/corners.png',sizingMethod='crop');
 }
 
 
@@ -374,52 +374,52 @@ html>body .gwt-BorderedTabBar .gwt-TabBarItem-selected .topRight {
   z-index: 109;
   border-style: solid;
   border-width: 28px 16px 16px 18px;
-  -webkit-border-image: url(https://mirchar.ru/cnt/img/ui/borders/tooltip.png) 28 17 16 15;
-  border-image: url(https://mirchar.ru/cnt/img/ui/borders/tooltip.png) fill 28 17 16 15;
+  -webkit-border-image: url(https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tooltip.png) 28 17 16 15;
+  border-image: url(https://time-mirchar.xnoo.ru/cnt/img/ui/borders/tooltip.png) fill 28 17 16 15;
 }
 
 .gwt-ScrollBarRiffle-Bar{
   width: 10px;
   height: 26px;
-  background: url(https://mirchar.ru/cnt/img/ui/scroll/bar.png) no-repeat 0px 0px;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/scroll/bar.png) no-repeat 0px 0px;
 }
 
 .gwt-ScrollBarRiffle-Top {
   width: 13px;
   height: 21px;
-  background: url(https://mirchar.ru/cnt/img/ui/scroll/top.png) no-repeat 0px 0px;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/scroll/top.png) no-repeat 0px 0px;
 }
 
 .gwt-ScrollBarRiffle-Bottom {
   width: 13px;
   height: 21px;
-  background: url(https://mirchar.ru/cnt/img/ui/scroll/bottom.png) no-repeat 0px 0px;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/scroll/bottom.png) no-repeat 0px 0px;
 }
 
 .gwt-ScrollBarRiffle-Back {
-  background: url(https://mirchar.ru/cnt/img/ui/scroll/back.png) repeat-y;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/scroll/back.png) repeat-y;
   /*height : 100%;*/  
 }
 
 .gwt-PaperScrollDisclosurePanel-disclosurePanel{
   width: 800px;
-  /*background: url(https://mirchar.ru/cnt/img/ui/paperscroll/scroll_top.png) no-repeat;*/
+  /*background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/paperscroll/scroll_top.png) no-repeat;*/
 }
 
 .gwt-PaperScrollDisclosurePanel-disclosurePanel-open .header{
-  background: url(https://mirchar.ru/cnt/img/ui/paperscroll/scroll_top.png) no-repeat;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/paperscroll/scroll_top.png) no-repeat;
   /*width: 792px;*/
   height: 61px;
 }
 
 .gwt-PaperScrollDisclosurePanel-disclosurePanel-closed .header{
-  background: url(https://mirchar.ru/cnt/img/ui/paperscroll/scroll_rolled.png) no-repeat;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/paperscroll/scroll_rolled.png) no-repeat;
   /*width: 792px;*/
   height: 75px;
 }
 
 .gwt-PaperScrollDisclosurePanel-contentPanel{
-  background: url(https://mirchar.ru/cnt/img/ui/paperscroll/scroll_repeat.png) repeat-y;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/paperscroll/scroll_repeat.png) repeat-y;
   padding-left: 60px;
   padding-right: 55px;
 }
@@ -428,7 +428,7 @@ html>body .gwt-BorderedTabBar .gwt-TabBarItem-selected .topRight {
   position: relative;
   left: 341px;
   top: 7;
-  background-image: url(https://mirchar.ru/content/gameimages/ui/paperscroll/scroll_stamp.png);
+  background-image: url(https://time-mirchar.xnoo.ru/content/gameimages/ui/paperscroll/scroll_stamp.png);
 }
 
 .Tooltip {
@@ -1153,14 +1153,14 @@ select {
   font-weight: bold;
 }
 .GWTUpld .upld-status div.cancel {
-  background: url(https://mirchar.ru/cnt/img/ui/ico/disabled/ico_logout.gif) no-repeat;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/ico/disabled/ico_logout.gif) no-repeat;
   width: 16px;
   height: 16px;
   cursor: pointer;
   border: none;
 }
 .GWTUpld .upld-status div.cancel:hover {
-  background: url(https://mirchar.ru/cnt/img/ui/ico/ico_logout.gif) no-repeat;
+  background: url(https://time-mirchar.xnoo.ru/cnt/img/ui/ico/ico_logout.gif) no-repeat;
 }
 .GWTUpld .upld-status .filename {
   overflow: hidden;
@@ -1590,39 +1590,39 @@ root {
 }
 
 .textButton0:hover {
-  background-image: url(https://mirchar.ru/cnt/img/ui/btn_back_0_h.gif);
+  background-image: url(https://time-mirchar.xnoo.ru/cnt/img/ui/btn_back_0_h.gif);
 }
 
 .textButton0 {
-  background-image: url(https://mirchar.ru/cnt/img/ui/btn_back_0.gif);
+  background-image: url(https://time-mirchar.xnoo.ru/cnt/img/ui/btn_back_0.gif);
 }
 
 .textButton0_disabled { 
-  background-image: url(https://mirchar.ru/cnt/img/ui/btn_back_0_d.gif);
+  background-image: url(https://time-mirchar.xnoo.ru/cnt/img/ui/btn_back_0_d.gif);
 }
 
 .textButton1:hover {
-  background-image: url(https://mirchar.ru/cnt/img/ui/btn_back_1_h.gif);
+  background-image: url(https://time-mirchar.xnoo.ru/cnt/img/ui/btn_back_1_h.gif);
 }
 
 .textButton1 {
-  background-image: url(https://mirchar.ru/cnt/img/ui/btn_back_1.gif);
+  background-image: url(https://time-mirchar.xnoo.ru/cnt/img/ui/btn_back_1.gif);
 }
 
 .textButton1_disabled { 
-  background-image: url(https://mirchar.ru/cnt/img/ui/btn_back_1_d.gif);
+  background-image: url(https://time-mirchar.xnoo.ru/cnt/img/ui/btn_back_1_d.gif);
 }
 
 .textButton2:hover {
-  background-image: url(https://mirchar.ru/cnt/img/ui/btn_back_2_h.gif);
+  background-image: url(https://time-mirchar.xnoo.ru/cnt/img/ui/btn_back_2_h.gif);
 }
 
 .textButton2 {
-  background-image: url(https://mirchar.ru/cnt/img/ui/btn_back_2.gif);
+  background-image: url(https://time-mirchar.xnoo.ru/cnt/img/ui/btn_back_2.gif);
 }
 
 .textButton2_disabled {
-  background-image: url(https://mirchar.ru/cnt/img/ui/btn_back_2_d.gif);
+  background-image: url(https://time-mirchar.xnoo.ru/cnt/img/ui/btn_back_2_d.gif);
 }
 
 .textButtonText {
