@@ -111,8 +111,8 @@ hr {
   border-style: solid;
   border-width: 16px;
   border-color: transparent;
-  -webkit-border-image: url(/cnt/img/ui/borders/window_corners.png) 16 repeat;
-  border-image: url(/cnt/img/ui/borders/window_corners.png) 16 fill repeat;
+  -webkit-border-image: url(/cnt/img/ui/borders/window_corners2.png) 16 repeat;
+  border-image: url(/cnt/img/ui/borders/window_corners2.png) 16 fill repeat;
 }
 
 .gwt-DecoratorPanel .UserBox {  
